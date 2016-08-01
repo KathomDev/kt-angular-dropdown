@@ -1,0 +1,24 @@
+{
+  "name": "kt-angular-dropdown",
+  "version": "0.0.1",
+  "description": "",
+  "main": "kt-angular-dropdown.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KathomDev/kt-angular-dropdown.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KathomDev/kt-angular-dropdown/issues"
+  },
+  "homepage": "https://github.com/KathomDev/kt-angular-dropdown#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.3.7",
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-postcss": "^0.8.0",
+    "grunt-sass": "^1.2.0"
+  }
+}
