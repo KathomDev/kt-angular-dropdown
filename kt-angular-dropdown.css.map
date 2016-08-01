@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "kt-angular-dropdown.css",
+	"sources": [
+		"scss/kt-angular-dropdown.scss"
+	],
+	"mappings": "AAAA,AAAA,0BAA0B,CAAC;EACzB,OAAO,EAAE,IAAK;CACf",
+	"names": []
+}
