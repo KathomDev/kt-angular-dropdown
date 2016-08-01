@@ -1,0 +1,17 @@
+{
+  "name": "kt-angular-dropdown",
+  "homepage": "https://github.com/KathomDev/kt-angular-dropdown",
+  "authors": [
+    "Thomas Greber <thomas@kathom.ch>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
