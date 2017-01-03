@@ -1,3 +1,4 @@
-.kt-dropdown-target-closed {
+.kt-dropdown-target-closed,
+.kt-dropdown-target:not(.kt-dropdown-target-open) {
   display: none;
 }

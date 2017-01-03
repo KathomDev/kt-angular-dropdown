@@ -4,6 +4,6 @@
 	"sources": [
 		"scss/kt-angular-dropdown.scss"
 	],
-	"mappings": "AAAA,AAAA,0BAA0B,CAAC;EACzB,OAAO,EAAE,IAAK;CACf",
-	"names": []
+	"names": [],
+	"mappings": "AAAA,AAAA,0BAA0B;AAC1B,AAD0B,mBACP,AAAA,IAAK,CAAA,AAAL,wBAA6B,EAAE;EAChD,OAAO,EAAE,IAAI;CACd"
 }

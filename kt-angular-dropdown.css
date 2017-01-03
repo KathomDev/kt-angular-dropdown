@@ -1,4 +1,5 @@
-.kt-dropdown-target-closed {
+.kt-dropdown-target-closed,
+.kt-dropdown-target:not(.kt-dropdown-target-open) {
   display: none;
 }
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNjc3Mva3QtYW5ndWxhci1kcm9wZG93bi5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsY0FBYztDQUNmIiwiZmlsZSI6Imt0LWFuZ3VsYXItZHJvcGRvd24uY3NzIiwic291cmNlc0NvbnRlbnQiOltudWxsXX0= */
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNjc3Mva3QtYW5ndWxhci1kcm9wZG93bi5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztFQUVFLGNBQWE7Q0FDZCIsImZpbGUiOiJrdC1hbmd1bGFyLWRyb3Bkb3duLmNzcyIsInNvdXJjZXNDb250ZW50IjpbbnVsbF19 */
